@@ -3,5 +3,6 @@
 
 hello! 
 My name is Yusei Ikeda.
-I make a game now.
-Nice to meet you.
+My favorite food is mango.
+Mango is yellow frult.
+It is made in japan.
